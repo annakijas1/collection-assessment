@@ -27,3 +27,5 @@ Demographic details about each composer were identified and added to the collect
 * Grove Music Online (Oxford)
 * Individual composer websites
 * Publisher websites
+
+Data on this site is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
